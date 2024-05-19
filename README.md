@@ -4,7 +4,7 @@ From [NTrace](https://github.com/nxtrace/NTrace-V1/blob/main/nt_install.sh)
 Added `setcap` to script
 
 ```shell
-curl -L https://github.com/Glucy-2/NextTrace-Install/raw/main/nt_install.sh | sudo bash
+curl -L https://raw.githubusercontent.com/Glucy-2/NextTrace-Install/main/nt_install.sh | sudo bash
 ```
 
 CN:
