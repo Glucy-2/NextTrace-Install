@@ -10,5 +10,5 @@ curl -L https://raw.githubusercontent.com/Glucy-2/NextTrace-Install/main/nt_inst
 
 CN:
 ```shell
-curl -L https://mirror.ghproxy.com/https://raw.githubusercontent.com/Glucy-2/NextTrace-Install/main/nt_install.sh | sudo bash
+curl -L https://ghfast.top/https://raw.githubusercontent.com/Glucy-2/NextTrace-Install/main/nt_install.sh | sudo bash
 ```
